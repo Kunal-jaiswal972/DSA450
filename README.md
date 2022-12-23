@@ -3,7 +3,7 @@
 > Clone the repo
     >> For Windows: Git Bash
     >> For Linux: Terminal
-    >> git clone https://github.com/AsishRaju/450-DSA.git
+    >> git clone https://github.com/Kunal-jaiswal972/DSA450.git
 > Change the folder location to your source Code Folder
     >> cd 450-DSA/src
 > Install the dependencies
